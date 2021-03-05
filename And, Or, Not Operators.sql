@@ -1,4 +1,4 @@
-The And, OR, and Not Operators
+-- The And, OR, Operators
  Select * from Customers
 where birth_date >= '1990-01-01'
  and  Points > 1000;
